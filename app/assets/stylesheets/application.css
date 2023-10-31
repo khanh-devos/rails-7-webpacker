@@ -1,0 +1,10 @@
+.routes-container {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+body {
+  padding: 50px 100px;
+  background-color: rgb(212, 255, 255);
+}
